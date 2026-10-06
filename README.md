@@ -1,11 +1,5 @@
 # PromptBin: Free Prompt List for AI tools
 
-The site -> [www.prompt-bin.com](https://www.prompt-bin.com/)
-
-- This is a passion project by @mattnigh.
-- Feel free to steal, scrape, and use the prompt files
-- MIT License, 2025 by [Matt Nigh](https://www.mattnigh.net/)
-
 ## Project info
 
 I use AI tools all the time and wished there was a great way to manage snippets for the (many) LLMs and Agents in my life. I made this tool (mostly) vibe-coding via Lovable for initial scaffolding, and Agent Mode in VS Code for functionality.
